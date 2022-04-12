@@ -1,0 +1,39 @@
+
+
+body{
+    margin: auto;
+    background-color: rgb(13, 13, 30);
+}
+.all{
+    max-width: 600px;
+    margin: 0% auto;
+    padding: 40px;
+    margin-top: 50px;
+}
+.contenu-flex{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+
+.headbarre{
+    float: right;
+}
+
+}
+.barre{
+    width: 100px;
+    height: 20px;
+}
+div{
+    padding: auto;
+}
+.options{
+    display: flex;
+    float: right;
+}
